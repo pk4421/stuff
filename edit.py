@@ -1,4 +1,5 @@
-//Should print now
-print("This is a line of code")
+def mul(a, b):
+	return a * b
 
-print("Just to make sure I know how to do this");
+
+print(mul(3, 9))
